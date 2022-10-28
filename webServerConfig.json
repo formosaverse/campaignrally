@@ -1,0 +1,24 @@
+{
+  "apiUrl": "https://crm.formosaverse.com/",
+  "network": {
+    "chainId": 137,
+    "jsonRpc": "https://polygon-mainnet.infura.io/v3/760d96a047c14bc39bed45d881441407",
+    "displayName": "Polygon Mainnet"
+  },
+  "contract": {
+    "type": "ERC721",
+    "address": "0x68b35C40c2238c5ddba2a9B07cECE2b955dF9d7e"
+  },
+  "price": "0x00",
+  "metadataId": {
+    "man": "87a296d5-bab5-4c89-bd3e-94846cc6034c",
+    "woman": "0249c0a6-d4e0-4125-ae8f-fe4831ee6325",
+    "elder": "77b127d1-f26d-40b3-9d46-8bdf9018f2e7"
+  },
+  "line": {
+    "redirectUri": "https://campaignrally.formosaverse.com",
+    "channelId": "1657308646",
+    "channelSecret": "045de4cc33ad31036faa3aa124e25b14"
+  },
+  "vendorId": "02374897-5bad-47c7-8a25-ba4bce910580"
+}
